@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/pokefriends/static/css/main.c69a350e.css",
+    "main.js": "/pokefriends/static/js/main.106e7097.js",
+    "static/js/787.8ea8e5da.chunk.js": "/pokefriends/static/js/787.8ea8e5da.chunk.js",
+    "static/media/Pokemon Solid.woff": "/pokefriends/static/media/Pokemon Solid.71ed1ed052493e405ec1.woff",
+    "index.html": "/pokefriends/index.html",
+    "main.c69a350e.css.map": "/pokefriends/static/css/main.c69a350e.css.map",
+    "main.106e7097.js.map": "/pokefriends/static/js/main.106e7097.js.map",
+    "787.8ea8e5da.chunk.js.map": "/pokefriends/static/js/787.8ea8e5da.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c69a350e.css",
+    "static/js/main.106e7097.js"
+  ]
+}
