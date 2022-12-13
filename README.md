@@ -1,2 +1,2 @@
 # pokefriends
-robofriends project variation from ZeroToMastery course
+robofriends project small variation from ZeroToMastery course
